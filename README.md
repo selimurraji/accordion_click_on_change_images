@@ -1,0 +1,1 @@
+# accordion_click_on_change_images
